@@ -35,7 +35,6 @@
 	</developers>
 	<modules>
 		<module>library</module>
-		<module>sample</module>
 	</modules>
 	<properties>
 		<!-- build settings -->
